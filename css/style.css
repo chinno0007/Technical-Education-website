@@ -31,3 +31,10 @@
     color: orange;
     font-size: 30px;
 }
+
+.img-companies img {
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    text-align: center;
+}
