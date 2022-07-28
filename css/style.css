@@ -38,3 +38,16 @@
     margin: 0 auto;
     text-align: center;
 }
+
+.footer-foot {
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fa-brands {
+    font-size: 30px;
+
+    color: white;
+}
