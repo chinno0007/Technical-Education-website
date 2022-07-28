@@ -25,3 +25,9 @@
 .institute-color {
     background-color: azure;
 }
+
+.fa-star,
+.fa-star-half-stroke {
+    color: orange;
+    font-size: 30px;
+}
