@@ -1,25 +1,8 @@
-.carousel-middle {
-    text-align: center;
-}
-
 @media only screen and (max-width:480px) {
     .carousel-control img {
         height: 50vh;
 
     }
-}
-
-.popular-courses {
-    /* display: grid;
-    justify-content: center;
-    align-items: center; */
-    margin: 0 auto;
-}
-
-.See-More-Buttons {
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 .institute-color {
